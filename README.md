@@ -13,14 +13,14 @@ $ yarn electron ./src
 
 * Packaging(Win)
 ```
-$ yarn build-win
+$ yarn build_win
 or
 $ yarn electron-packager src electron-example-app --platform=win32 --arch=x64 --overwrite
 ```
 
 * Packaging(Mac)
 ```
-$ yarn build-macos
+$ yarn build_macos
 or
 $ yarn electron-packager src electron-example-app --platform=darwin --arch=x64 --overwrite
 ```
