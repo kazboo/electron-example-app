@@ -5,7 +5,7 @@
     "build_macos": "electron-packager ./src electron-example-app --platform=darwin --arch=x64 --overwrite"
   },
   "devDependencies": {
-    "electron": "^8.0.2",
+    "electron": "^8.5.1",
     "electron-packager": "^14.2.1"
   },
   "private": true
